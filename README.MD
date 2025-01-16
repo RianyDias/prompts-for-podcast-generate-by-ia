@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-    **Podcast Caixa de Possibilidade**
+    Podcast Caixa de Possibilidade
 </p>
 
 <div align="center">
