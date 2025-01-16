@@ -8,7 +8,7 @@
 
 </p>
 
-<p align="center" style="font-weight: bold; font-size: 24px;">
+<p align="center" style="font-weight: bold; font-size: 24px">
     Podcast Caixa de Possibilidade
 </p>
 
