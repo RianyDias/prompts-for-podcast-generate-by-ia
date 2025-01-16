@@ -8,8 +8,10 @@
 
 </p>
 
-<p align="center">
-    Podcast Caixa de Possibilidade
+<p align="center" style="font-size: 24px;">
+    
+    
+<strong>Podcast Caixa de Possibilidade</strong>
 </p>
 
 <div align="center">
