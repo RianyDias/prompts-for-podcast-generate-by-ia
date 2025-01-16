@@ -9,7 +9,7 @@
 </p>
 
 <p align="center" style="font-weight: bold; font-size: 24px">
-   <title> Podcast Caixa de Possibilidade <title>
+      Podcast Caixa de Possibilidade 
 </p>
 
 <div align="center">
